@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-mandarin-taiwan",
+  "version": "1.0.0",
+  "description": "Game Belajar Bahasa Mandarin Taiwan - 當代中文課程 1 (Flashcard, Listening, Reading, Speaking)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "taiwan-mandarin",
+    "flashcard",
+    "bopomofo",
+    "zhuyin",
+    "tocfl",
+    "ccc1"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

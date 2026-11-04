@@ -1,0 +1,4546 @@
+[
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "陳月美",
+    "pinyin": "Chén Yuèměi",
+    "def_en": "a woman from Vietnam"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "李明華",
+    "pinyin": "Lǐ Mínghuá",
+    "def_en": "a man from Taiwan"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "王開文",
+    "pinyin": "Wáng Kāiwén",
+    "def_en": "a man from the US"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "def_en": "(N) you"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "來",
+    "pinyin": "lái",
+    "def_en": "(V) to come"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "def_en": "(Vst) to be"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "def_en": "(N) Miss, Ms"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "嗎",
+    "pinyin": "ma",
+    "def_en": "(Ptc) sentence final particle"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "def_en": "(V) to pick sb up"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "我們",
+    "pinyin": "wǒmen",
+    "def_en": "(N) we, us"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "def_en": "(N) I, me"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "這",
+    "pinyin": "zhè / zhèi",
+    "def_en": "(Det) this"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "先生",
+    "pinyin": "xiānshēng",
+    "def_en": "(N) Mr"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "def_en": "(Vs) fine, well"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "def_en": "(Vst) to be surnamed"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "def_en": "(Vst) to be called, i.e., to have the first name xx"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "你們",
+    "pinyin": "nǐmen",
+    "def_en": "(N) you (plural)"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "臺灣/台灣",
+    "pinyin": "Táiwān",
+    "def_en": "Taiwan"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "歡迎",
+    "pinyin": "huānyíng",
+    "def_en": "welcome"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "請問",
+    "pinyin": "qǐngwèn",
+    "def_en": "May I ask you... Excuse me,…"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "是的",
+    "pinyin": "shìde",
+    "def_en": "yes"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "謝謝",
+    "pinyin": "xièxie",
+    "def_en": "Thank you"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "不客氣",
+    "pinyin": "búkèqì",
+    "def_en": "You're welcome'"
+  },
+  {
+    "lessonCode": "L01-I",
+    "lessonNum": 1,
+    "part": "I",
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "def_en": "How are you? Hello"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "請",
+    "pinyin": "qǐng",
+    "def_en": "(V) please"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "def_en": "(V) to drink"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "def_en": "(N) tea"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "def_en": "(Adv) very"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "好喝",
+    "pinyin": "hǎohē",
+    "def_en": "(Vs) (lit. good to drink) to taste good"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "什麼",
+    "pinyin": "shénme",
+    "def_en": "(N) what"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "人",
+    "pinyin": "rén",
+    "def_en": "(N) person, people"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "喜歡",
+    "pinyin": "xǐhuān",
+    "def_en": "(Vst) to like"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "def_en": "(Ptc) sentence final particle"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "def_en": "(N) he, him"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "def_en": "(Adv) not"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "哪",
+    "pinyin": "nǎ / něi",
+    "def_en": "(Det) which"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "def_en": "(Vaux) to want to"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "咖啡",
+    "pinyin": "kāfēi",
+    "def_en": "(N) coffee"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "烏龍茶",
+    "pinyin": "Wūlóng chá",
+    "def_en": "Oolong tea"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "日本",
+    "pinyin": "Rìběn",
+    "def_en": "Japan"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "美國",
+    "pinyin": "Měiguó",
+    "def_en": "America"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "對不起",
+    "pinyin": "duìbùqǐ",
+    "def_en": "I'm sorry'"
+  },
+  {
+    "lessonCode": "L01-II",
+    "lessonNum": 1,
+    "part": "II",
+    "hanzi": "哪國",
+    "pinyin": "nǎguó / něi guó",
+    "def_en": "Which country?"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "張怡君",
+    "pinyin": "Zhāng Yíjūn",
+    "def_en": "a woman from Taiwan"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "馬安同",
+    "pinyin": "Mǎ Āntóng",
+    "def_en": "a man from the Republic of Honduras"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "的",
+    "pinyin": "de",
+    "def_en": "(Ptc) modification marker"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "家人",
+    "pinyin": "jiārén",
+    "def_en": "(N) family (members)"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "def_en": "(N) home, house"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "漂亮",
+    "pinyin": "piàoliàng",
+    "def_en": "(Vs) pretty"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "房子",
+    "pinyin": "fángzi",
+    "def_en": "(N) house"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "def_en": "(Vi) to sit"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "def_en": "(Ptc) OK"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "def_en": "(Vst) to have"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "多",
+    "pinyin": "duō",
+    "def_en": "(Vs-pred) many"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "def_en": "(N) photo"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "def_en": "(Adv) all, both"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "照相",
+    "pinyin": "zhàoxiàng",
+    "def_en": "(V-sep) to take a photo"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "張",
+    "pinyin": "zhāng",
+    "def_en": "(M) measure word for flat objects (e.g., paper, tickets)"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "好看",
+    "pinyin": "hǎokàn",
+    "def_en": "(Vs) good-looking"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "誰",
+    "pinyin": "shéi",
+    "def_en": "(N) who"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "def_en": "(N) older sister"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "def_en": "(N) younger sister"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "def_en": "(N) dad"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "媽媽",
+    "pinyin": "māma",
+    "def_en": "(N) mom"
+  },
+  {
+    "lessonCode": "L02-I",
+    "lessonNum": 2,
+    "part": "I",
+    "hanzi": "請進",
+    "pinyin": "qǐng jìn",
+    "def_en": "Please come in!"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "田中誠一",
+    "pinyin": "Tiánzhōng Chéngyī",
+    "def_en": "a man from Japan"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "伯母",
+    "pinyin": "bómǔ",
+    "def_en": "(N) aunt; here a polite term for a friends' mother regardless of age'"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "def_en": "(N) you (honorific)"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "def_en": "(N) name"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "書",
+    "pinyin": "shū",
+    "def_en": "(N) book"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "def_en": "(N) older brother"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "老師",
+    "pinyin": "lǎoshī",
+    "def_en": "(N) teacher"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "看書",
+    "pinyin": "kànshū",
+    "def_en": "(V-sep) to read"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "幾",
+    "pinyin": "jǐ",
+    "def_en": "(N) how many"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "個",
+    "pinyin": "ge",
+    "def_en": "(M) general measure word"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "沒",
+    "pinyin": "méi",
+    "def_en": "(Adv) not"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "兄弟",
+    "pinyin": "xiōngdì",
+    "def_en": "(N) brothers"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "姐妹",
+    "pinyin": "jiěmèi",
+    "def_en": "(N) sisters"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "def_en": "(N) five"
+  },
+  {
+    "lessonCode": "L02-II",
+    "lessonNum": 2,
+    "part": "II",
+    "hanzi": "兩",
+    "pinyin": "liǎng",
+    "def_en": "(N) two"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "週末",
+    "pinyin": "zhōumò",
+    "def_en": "(N) weekend"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "聽",
+    "pinyin": "tīng",
+    "def_en": "(V) to listen"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "音樂",
+    "pinyin": "yīnyuè",
+    "def_en": "(N) music"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "運動",
+    "pinyin": "yùndòng",
+    "def_en": "(Vi) to exercise"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "def_en": "(V) to play (ball games)"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "網球",
+    "pinyin": "wǎngqiú",
+    "def_en": "(N) tennis"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "棒球",
+    "pinyin": "bàngqiú",
+    "def_en": "(N) baseball"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "和",
+    "pinyin": "hàn",
+    "def_en": "(Conj) and, as well as"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "游泳",
+    "pinyin": "yóuyǒng",
+    "def_en": "(V-sep) to swim"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "常",
+    "pinyin": "cháng",
+    "def_en": "(Adv) often"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "籃球",
+    "pinyin": "lánqiú",
+    "def_en": "(N) basketball"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "def_en": "(Adv) also"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "def_en": "(V) to kick"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "足球",
+    "pinyin": "zúqiú",
+    "def_en": "(N) soccer"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "覺得",
+    "pinyin": "juéde",
+    "def_en": "(Vst) to feel, to think"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "好玩",
+    "pinyin": "hǎowán",
+    "def_en": "(Vs) Interesting, fun"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "def_en": "(N) tomorrow"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "早上",
+    "pinyin": "zǎoshàng",
+    "def_en": "(N) morning"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "def_en": "(V) to go"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "怎麼樣",
+    "pinyin": "zěnmeyàng",
+    "def_en": "(Vs) How about it? How does that sound? What do you think?"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "啊",
+    "pinyin": "a",
+    "def_en": "(Ptc) sentence-final particle"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "做什麼",
+    "pinyin": "zuò shénme",
+    "def_en": "do what"
+  },
+  {
+    "lessonCode": "L03-I",
+    "lessonNum": 3,
+    "part": "I",
+    "hanzi": "好啊",
+    "pinyin": "hǎo a",
+    "def_en": "OK"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "白如玉",
+    "pinyin": "Bái Rúyù",
+    "def_en": "a woman from the US"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "def_en": "(N) today"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "晚上",
+    "pinyin": "wǎnshàng",
+    "def_en": "(N) evening, night"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "def_en": "(V) to see, to watch"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "電影",
+    "pinyin": "diànyǐng",
+    "def_en": "(N) movie"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "妳",
+    "pinyin": "nǐ",
+    "def_en": "(N) you (female)"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "def_en": "(Vaux) to want, to think"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "還是",
+    "pinyin": "háishì",
+    "def_en": "(Conj) or (used in a question)"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "def_en": "(Ptc) sentence-final particle for suggestion"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "def_en": "(Vaux) could (possibility)"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "學",
+    "pinyin": "xué",
+    "def_en": "(V) to learn, to study"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "中文",
+    "pinyin": "Zhōngwén",
+    "def_en": "(N) Chinese language"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "def_en": "(Adv) together"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "def_en": "(V) to eat"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "晚飯",
+    "pinyin": "wǎnfàn",
+    "def_en": "(N) dinner"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "def_en": "(N) cuisine"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "越南",
+    "pinyin": "Yuènán",
+    "def_en": "Vietnam"
+  },
+  {
+    "lessonCode": "L03-II",
+    "lessonNum": 3,
+    "part": "II",
+    "hanzi": "好不好",
+    "pinyin": "hǎo bù hǎo",
+    "def_en": "How about...? How does that sound?"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "一共",
+    "pinyin": "yígòng",
+    "def_en": "(Adv) altogether"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "多少",
+    "pinyin": "duōshǎo",
+    "def_en": "(N) how much, how many"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "錢",
+    "pinyin": "qián",
+    "def_en": "(N) money"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "老闆",
+    "pinyin": "lǎobǎn",
+    "def_en": "(N) store-owner, boss"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "買",
+    "pinyin": "mǎi",
+    "def_en": "(V) to buy"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "def_en": "(M) cup"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "熱",
+    "pinyin": "rè",
+    "def_en": "(Vs) hot"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "包子",
+    "pinyin": "bāozi",
+    "def_en": "(N) steamed buns with meat stuffing filling"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "def_en": "(V) to want, to need"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "def_en": "(Vs) large"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "def_en": "(Vs-attr) medium"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "def_en": "(Vs) small"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "幫",
+    "pinyin": "bāng",
+    "def_en": "(Prep) for"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "微波",
+    "pinyin": "wéibō",
+    "def_en": "(V) to microwave"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "def_en": "(N) hundred"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "塊",
+    "pinyin": "kuài",
+    "def_en": "(M) measure word for Chinese money"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "好的",
+    "pinyin": "hǎode",
+    "def_en": "OK"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "外帶",
+    "pinyin": "wàidài",
+    "def_en": "take out, to go"
+  },
+  {
+    "lessonCode": "L04-I",
+    "lessonNum": 4,
+    "part": "I",
+    "hanzi": "內用",
+    "pinyin": "nèiyòng",
+    "def_en": "for here"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "支",
+    "pinyin": "zhī",
+    "def_en": "(M) measure word for cell phones"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "def_en": "(Vs) new"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "手機",
+    "pinyin": "shǒujī",
+    "def_en": "(N) cell phone"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "太",
+    "pinyin": "tài",
+    "def_en": "(Adv) too"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "舊",
+    "pinyin": "jiù",
+    "def_en": "(Vs) old"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "了",
+    "pinyin": "le",
+    "def_en": "(Ptc) sentence-final particle indicating the speaker's sense of certainty'"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "種",
+    "pinyin": "zhǒng",
+    "def_en": "(M) kind, type"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "能",
+    "pinyin": "néng",
+    "def_en": "(Vaux) can, be able to"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "上網",
+    "pinyin": "shàngwǎng",
+    "def_en": "(V-sep) to access the internet, to use the internet"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "那",
+    "pinyin": "nà / nèi",
+    "def_en": "(Det) that"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "貴",
+    "pinyin": "guì",
+    "def_en": "(Vs) expensive"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "賣",
+    "pinyin": "mài",
+    "def_en": "(V) to sell"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "便宜",
+    "pinyin": "piányí",
+    "def_en": "(Vs) cheap, inexpensive"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "def_en": "(Vst) to take, to require"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "萬",
+    "pinyin": "wàn",
+    "def_en": "(N) ten thousand"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "def_en": "thousand"
+  },
+  {
+    "lessonCode": "L04-II",
+    "lessonNum": 4,
+    "part": "II",
+    "hanzi": "為什麼",
+    "pinyin": "wèishénme",
+    "def_en": "why"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "牛肉",
+    "pinyin": "niúròu",
+    "def_en": "(N) beef"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "麵",
+    "pinyin": "miàn",
+    "def_en": "(N) noodles"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "def_en": "(Adv) really"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "好吃",
+    "pinyin": "hǎochī",
+    "def_en": "(Vs) delicious"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "說",
+    "pinyin": "shuō",
+    "def_en": "(V) say"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "def_en": "(Vs-pred) few in number"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "有名",
+    "pinyin": "yǒumíng",
+    "def_en": "(Vs) well known, famous"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "小吃",
+    "pinyin": "xiǎochī",
+    "def_en": "(N) light repast, snack"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "def_en": "(Adv) most"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "湯",
+    "pinyin": "tāng",
+    "def_en": "(N) soup, broth"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "這麼",
+    "pinyin": "zhème",
+    "def_en": "(Adv) so"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "def_en": "(Vst) to know"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "def_en": "(M) measure word for restaurants, shops, etc"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "def_en": "(N) shop, store"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "一定",
+    "pinyin": "yídìng",
+    "def_en": "(Adv) really must, definitely"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "點",
+    "pinyin": "diǎn",
+    "def_en": "(V) to order (meals)"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "def_en": "(M) a bowl of"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "是啊",
+    "pinyin": "shì a",
+    "def_en": "That's right'"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "小籠包",
+    "pinyin": "xiǎolóngbāo",
+    "def_en": "xiaolongbao, e.g., small meat and cabbage-filled steamed buns"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "臭豆腐",
+    "pinyin": "chòu dòufǔ",
+    "def_en": "stinky tofu (fermented tofu)"
+  },
+  {
+    "lessonCode": "L05-I",
+    "lessonNum": 5,
+    "part": "I",
+    "hanzi": "太好了",
+    "pinyin": "tài hǎo le",
+    "def_en": "Excellent. Great"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "def_en": "(N) yesterday"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "餐廳",
+    "pinyin": "cāntīng",
+    "def_en": "(N) restaurant"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "可是",
+    "pinyin": "kěshì",
+    "def_en": "(Conj) but, however"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "辣",
+    "pinyin": "là",
+    "def_en": "(Vs) hot (spicy)"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "怕",
+    "pinyin": "pà",
+    "def_en": "(Vst) (here) to not like, to fear"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "所以",
+    "pinyin": "suǒyǐ",
+    "def_en": "(Conj) therefore, so"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "def_en": "(N) self"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "做飯",
+    "pinyin": "zuòfàn",
+    "def_en": "(V-sep) to cook"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "得",
+    "pinyin": "de",
+    "def_en": "(Ptc) complement marker"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "會",
+    "pinyin": "huì",
+    "def_en": "(Vaux) to be able to, can"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "甜點",
+    "pinyin": "tiándiǎn",
+    "def_en": "(N) dessert"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "不錯",
+    "pinyin": "búcuò",
+    "def_en": "(Vs) not bad"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "def_en": "(Vaux) could (possibility)"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "def_en": "(V) to teach"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "到",
+    "pinyin": "dào",
+    "def_en": "(Prep) to"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "有一點",
+    "pinyin": "yǒu yì diǎn",
+    "def_en": "a little"
+  },
+  {
+    "lessonCode": "L05-II",
+    "lessonNum": 5,
+    "part": "II",
+    "hanzi": "不好",
+    "pinyin": "bù hǎo",
+    "def_en": "not well"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "他們",
+    "pinyin": "tāmen",
+    "def_en": "(N) they (used for people only)"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "學校",
+    "pinyin": "xuéxiào",
+    "def_en": "(N) school"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "def_en": "(Vst) to be located at"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "山上",
+    "pinyin": "shānshàng",
+    "def_en": "(N) on a mountain, in the mountains"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "哪裡",
+    "pinyin": "nǎlǐ",
+    "def_en": "(N) where"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "遠",
+    "pinyin": "yuǎn",
+    "def_en": "(Vs) far"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "那裡",
+    "pinyin": "nàlǐ",
+    "def_en": "(N) that place, there"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "風景",
+    "pinyin": "fēngjǐng",
+    "def_en": "(N) scenery, landscape"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "美",
+    "pinyin": "měi",
+    "def_en": "(Vs) beautiful"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "def_en": "(N) front"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "海",
+    "pinyin": "hǎi",
+    "def_en": "(N) ocean"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "後面",
+    "pinyin": "hòumiàn",
+    "def_en": "(N) back"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "山",
+    "pinyin": "shān",
+    "def_en": "(N) mountain"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "真的",
+    "pinyin": "zhēnde",
+    "def_en": "(Adv) really, truly"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "地方",
+    "pinyin": "dìfāng",
+    "def_en": "(N) place"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "現在",
+    "pinyin": "xiànzài",
+    "def_en": "(N) now"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "附近",
+    "pinyin": "fùjìn",
+    "def_en": "(N) vicinity, near"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "樓下",
+    "pinyin": "lóuxià",
+    "def_en": "(N) downstairs"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "def_en": "(V) to meet, to see"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "朋友",
+    "pinyin": "péngyǒu",
+    "def_en": "(N) friend"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "上課",
+    "pinyin": "shàngkè",
+    "def_en": "(V-sep) to go to class"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "花蓮",
+    "pinyin": "Huālián",
+    "def_en": "name of a city on the eastern coast of Taiwan"
+  },
+  {
+    "lessonCode": "L06-I",
+    "lessonNum": 6,
+    "part": "I",
+    "hanzi": "聽說",
+    "pinyin": "tīngshuō",
+    "def_en": "hear that"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "def_en": "(Vs) near"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "方便",
+    "pinyin": "fāngbiàn",
+    "def_en": "(Vs) convenient"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "這裡",
+    "pinyin": "zhèlǐ",
+    "def_en": "(N) here, this place"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "學生",
+    "pinyin": "xuéshēng",
+    "def_en": "(N) student"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "def_en": "(Prep) at"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "東西",
+    "pinyin": "dōngxi",
+    "def_en": "(N) things, stuff"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "外面",
+    "pinyin": "wàimiàn",
+    "def_en": "(N) outside"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "裡面",
+    "pinyin": "lǐmiàn",
+    "def_en": "(N) inside"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "def_en": "(N) store, shop"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "吃飯",
+    "pinyin": "chīfàn",
+    "def_en": "(V-sep) to have a meal"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "宿舍",
+    "pinyin": "sùshè",
+    "def_en": "(N) dormitory"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "樓",
+    "pinyin": "lóu",
+    "def_en": "(N) a storey, a floor"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "棟",
+    "pinyin": "dòng",
+    "def_en": "(M) measure word for buildings"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "大樓",
+    "pinyin": "dàlóu",
+    "def_en": "(N) a multi-storey building"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "圖書館",
+    "pinyin": "túshūguǎn",
+    "def_en": "(N) library"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "旁邊",
+    "pinyin": "pángbiān",
+    "def_en": "(N) (by the) side, next to"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "教室",
+    "pinyin": "jiàoshì",
+    "def_en": "(N) classroom"
+  },
+  {
+    "lessonCode": "L06-II",
+    "lessonNum": 6,
+    "part": "II",
+    "hanzi": "游泳池",
+    "pinyin": "yóuyǒngchí",
+    "def_en": "(N) swimming pool"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "點",
+    "pinyin": "diǎn",
+    "def_en": "(M) o'clock'"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "KTV",
+    "pinyin": "Karaoke",
+    "def_en": ""
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "唱歌",
+    "pinyin": "chànggē",
+    "def_en": "(V-sep) to sing"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "def_en": "(M) minute"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "見面",
+    "pinyin": "jiànmiàn",
+    "def_en": "(V-sep) meet"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "從",
+    "pinyin": "cóng",
+    "def_en": "(Prep) from"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "def_en": "(N) noon"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "得",
+    "pinyin": "děi",
+    "def_en": "(Vaux) to have to, must"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "銀行",
+    "pinyin": "yínháng",
+    "def_en": "(N) bank"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "時候",
+    "pinyin": "shíhòu",
+    "def_en": "(N) when"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "後天",
+    "pinyin": "hòutiān",
+    "def_en": "(N) the day after tomorrow"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "大安",
+    "pinyin": "Dà'ān'",
+    "def_en": "Da-an (name of a KTV named after a district in Taipei, where Shida is also located.)"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "下次",
+    "pinyin": "xiàcì",
+    "def_en": "next time"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "沒問題",
+    "pinyin": "méi wèntí",
+    "def_en": "No problem"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "對了",
+    "pinyin": "duìle",
+    "def_en": "by the way"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "有空",
+    "pinyin": "yǒu kòng",
+    "def_en": "to have free time"
+  },
+  {
+    "lessonCode": "L07-I",
+    "lessonNum": 7,
+    "part": "I",
+    "hanzi": "再見",
+    "pinyin": "zàijiàn",
+    "def_en": "goodbye"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "def_en": "(Vs) progressive aspect verb; in the process of doing something"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "午餐",
+    "pinyin": "wǔcān",
+    "def_en": "(N) lunch"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "剛",
+    "pinyin": "gāng",
+    "def_en": "(Adv) just now"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "下課",
+    "pinyin": "xiàkè",
+    "def_en": "(V-sep) to finish class"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "def_en": "(N) afternoon"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "def_en": "(N) half"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "比賽",
+    "pinyin": "bǐsài",
+    "def_en": "(N) game, competition"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "結束",
+    "pinyin": "jiéshù",
+    "def_en": "(Vp) to finish"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "最近",
+    "pinyin": "zuìjìn",
+    "def_en": "(N) recently, lately"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "def_en": "(Vs) busy"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "每",
+    "pinyin": "měi",
+    "def_en": "(Det) every, each"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "def_en": "(M) Measure word for day"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "書法",
+    "pinyin": "shūfǎ",
+    "def_en": "(N) calligraphy"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "課",
+    "pinyin": "kè",
+    "def_en": "(N) class"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "開始",
+    "pinyin": "kāishǐ",
+    "def_en": "(Vp) to begin, to start"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "字",
+    "pinyin": "zì",
+    "def_en": "(N) character"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "寫",
+    "pinyin": "xiě",
+    "def_en": "(V) to write"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "def_en": "(Vaux) may (permission)"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "問",
+    "pinyin": "wèn",
+    "def_en": "(V) to ask"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "等一下",
+    "pinyin": "děng yíxià",
+    "def_en": "later"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "有事",
+    "pinyin": "yǒu shì",
+    "def_en": "to be busy; to be engaged"
+  },
+  {
+    "lessonCode": "L07-II",
+    "lessonNum": 7,
+    "part": "II",
+    "hanzi": "有意思",
+    "pinyin": "yǒu yìsi",
+    "def_en": "to be interesting, to be fun"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "def_en": "(V) to take, to travel by"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "火車",
+    "pinyin": "huǒchē",
+    "def_en": "(N) train"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "def_en": "(Prep) with"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "def_en": "(V) to have fun"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "怎麼",
+    "pinyin": "zěnme",
+    "def_en": "(Adv) how"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "def_en": "(Vs) slow"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "鐘頭",
+    "pinyin": "zhōngtóu",
+    "def_en": "(N) hour"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "比較",
+    "pinyin": "bǐjiào",
+    "def_en": "(Adv) (comparatively) more"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "def_en": "(Vs) fast"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "車票",
+    "pinyin": "chē piào",
+    "def_en": "(N) (train, bus) ticket"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "def_en": "(Adv) very"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "但是",
+    "pinyin": "dànshì",
+    "def_en": "(Conj) but, however"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "又",
+    "pinyin": "yòu",
+    "def_en": "(Adv) both… and..."
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "舒服",
+    "pinyin": "shūfú",
+    "def_en": "(Vs) comfortable"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "def_en": "(N) station"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "或是",
+    "pinyin": "huòshì",
+    "def_en": "(Conj) or"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "臺南",
+    "pinyin": "Táinán",
+    "def_en": "a city in southwestern Taiwan"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "高鐵",
+    "pinyin": "gāotiě",
+    "def_en": "High Speed Rail (HSR)"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "網路上",
+    "pinyin": "wǎnglù shàng",
+    "def_en": "on the Internet"
+  },
+  {
+    "lessonCode": "L08-I",
+    "lessonNum": 8,
+    "part": "I",
+    "hanzi": "便利商店",
+    "pinyin": "biànlì shāngdiàn",
+    "def_en": "convenience store"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "同學",
+    "pinyin": "tóngxué",
+    "def_en": "(N) classmate"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "參觀",
+    "pinyin": "cānguān",
+    "def_en": "(V) to visit (an institution)"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "古代",
+    "pinyin": "gǔdài",
+    "def_en": "(N) ancient times"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "騎",
+    "pinyin": "qí",
+    "def_en": "(V) to ride"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "機車",
+    "pinyin": "jīchē",
+    "def_en": "(N) motorcycle, scooter"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "載",
+    "pinyin": "zài",
+    "def_en": "(V) to give someone a ride (on / in a vehicle, e.g. motorcycle, bicycle or car)"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "捷運",
+    "pinyin": "jiéyùn",
+    "def_en": "(N) Mass Rapid Transit (MRT)"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "def_en": "(Prep) (more...) than"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "故宮博物院 (故宮)",
+    "pinyin": "Gùgōng Bówùyuàn",
+    "def_en": "National Palace Museum"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "中國",
+    "pinyin": "Zhōngguó",
+    "def_en": "China"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "公共汽車",
+    "pinyin": "gōnggòng qìchē",
+    "def_en": "bus"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "不行",
+    "pinyin": "bù xíng",
+    "def_en": "will not do"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "計程車",
+    "pinyin": "jìchéngchē",
+    "def_en": "taxi"
+  },
+  {
+    "lessonCode": "L08-II",
+    "lessonNum": 8,
+    "part": "II",
+    "hanzi": "差不多",
+    "pinyin": "chābùduō",
+    "def_en": "about the same"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "星期 + number",
+    "pinyin": "xīngqí",
+    "def_en": "week (day of the week)"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "回國",
+    "pinyin": "huíguó",
+    "def_en": "(V-sep) to return to one's country'"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "打算",
+    "pinyin": "dǎsuàn",
+    "def_en": "(Vaux) to plan to"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "電視",
+    "pinyin": "diànshì",
+    "def_en": "(N) TV"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "影片",
+    "pinyin": "yǐngpiàn",
+    "def_en": "(N) film"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "旅行",
+    "pinyin": "lǚxíng",
+    "def_en": "(Vi) to travel"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "功課",
+    "pinyin": "gōngkè",
+    "def_en": "(N) homework"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "出去",
+    "pinyin": "chūqù",
+    "def_en": "(Vi) to go out"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "大概",
+    "pinyin": "dàgài",
+    "def_en": "(Adv) approximately, about, probably"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "放假",
+    "pinyin": "fàngjià",
+    "def_en": "to have a holiday"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "下個星期",
+    "pinyin": "xiàge xīngqí",
+    "def_en": "next week"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "有時候",
+    "pinyin": "yǒushíhòu",
+    "def_en": "sometimes"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "多久",
+    "pinyin": "duō jiǔ",
+    "def_en": "how long"
+  },
+  {
+    "lessonCode": "L09-I",
+    "lessonNum": 9,
+    "part": "I",
+    "hanzi": "臺東",
+    "pinyin": "Táidōng",
+    "def_en": "name of one of the major cities on the southeastern coast of Taiwan"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "女 + noun",
+    "pinyin": "nǚ",
+    "def_en": "girl-, female-"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "number + 月",
+    "pinyin": "yuè",
+    "def_en": "month of a year"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "number + 號",
+    "pinyin": "hào",
+    "def_en": "date, day of a month"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "帶",
+    "pinyin": "dài",
+    "def_en": "(V) to take"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "def_en": "(N) she, her"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "還",
+    "pinyin": "hái",
+    "def_en": "(Adv) still, additionally"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "建議",
+    "pinyin": "jiànyì",
+    "def_en": "(N) suggestion"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "夜市",
+    "pinyin": "yèshì",
+    "def_en": "(N) night market"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "應該",
+    "pinyin": "yīnggāi",
+    "def_en": "(Vaux) should"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "逛",
+    "pinyin": "guàng",
+    "def_en": "(V) to wander around, to look around"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "特別",
+    "pinyin": "tèbié",
+    "def_en": "(Vs) special"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "茶館",
+    "pinyin": "cháguǎn",
+    "def_en": "(N) tea house"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "決定",
+    "pinyin": "juédìng",
+    "def_en": "(Vp) to decide"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "要是",
+    "pinyin": "yàoshì",
+    "def_en": "(Conj) if"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "def_en": "(Adv) then"
+  },
+  {
+    "lessonCode": "L09-II",
+    "lessonNum": 9,
+    "part": "II",
+    "hanzi": "貓空",
+    "pinyin": "Māokōng",
+    "def_en": "name of a must-see place in Taipei to visit for fine tea and scenery"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "def_en": "(N) fruit"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "黃色",
+    "pinyin": "huángsè",
+    "def_en": "(N) yellow"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "芒果",
+    "pinyin": "mángguǒ",
+    "def_en": "(N) mango"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "給",
+    "pinyin": "gěi",
+    "def_en": "(V) to give"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "塊",
+    "pinyin": "kuài",
+    "def_en": "(M) measure word for pieces of food (e.g., meat, cake)"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "def_en": "(Vs) fragrant"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "def_en": "(Vs) sweet (taste)"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "紅色",
+    "pinyin": "hóngsè",
+    "def_en": "(N) red"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "西瓜",
+    "pinyin": "xīguā",
+    "def_en": "(N) watermelon"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "def_en": "(Ptc) sentence-final particle for guessing"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "對",
+    "pinyin": "duì",
+    "def_en": "(Vs) correct, right"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "以前",
+    "pinyin": "yǐqián",
+    "def_en": "(N) before"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "機會",
+    "pinyin": "jīhuì",
+    "def_en": "(N) opportunity"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "請",
+    "pinyin": "qǐng",
+    "def_en": "(V) to treat sb to sth"
+  },
+  {
+    "lessonCode": "L10-I",
+    "lessonNum": 10,
+    "part": "I",
+    "hanzi": "吃吃看",
+    "pinyin": "chīchīkàn",
+    "def_en": "to have a taste, try it, taste it"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "def_en": "(V) to take (pictures)"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "def_en": "(V) to laugh, to smile"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "開心",
+    "pinyin": "kāixīn",
+    "def_en": "(Vs) happy"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "def_en": "(V) to wear, to put on"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "衣服",
+    "pinyin": "yīfú",
+    "def_en": "(N) clothes"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "旅館",
+    "pinyin": "lǚguǎn",
+    "def_en": "(N) hotel"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "太太",
+    "pinyin": "tàitai",
+    "def_en": "(N) wife"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "矮",
+    "pinyin": "ǎi",
+    "def_en": "(Vs) short (height)"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "def_en": "(Vs) tall"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "def_en": "(N) younger brother"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "乾淨",
+    "pinyin": "gānjìng",
+    "def_en": "(Vs) clean"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "窗戶",
+    "pinyin": "chuānghù",
+    "def_en": "(N) window"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "def_en": "(Prep) toward, to"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "藍色",
+    "pinyin": "lánsè",
+    "def_en": "(N) blue"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "因為",
+    "pinyin": "yīnwèi",
+    "def_en": "(Conj) because"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "def_en": "(V) to stay"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "上個月",
+    "pinyin": "shàng ge yuè",
+    "def_en": "last month"
+  },
+  {
+    "lessonCode": "L10-II",
+    "lessonNum": 10,
+    "part": "II",
+    "hanzi": "這些",
+    "pinyin": "zhèxiē",
+    "def_en": "these"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "租",
+    "pinyin": "zū",
+    "def_en": "(V) to rent"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "房東",
+    "pinyin": "fángdōng",
+    "def_en": "(N) landlord"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "客廳",
+    "pinyin": "kètīng",
+    "def_en": "(N) living room"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "廚房",
+    "pinyin": "chúfáng",
+    "def_en": "(N) kitchen"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "左邊",
+    "pinyin": "zuǒbiān",
+    "def_en": "(N) left (side)"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "右邊",
+    "pinyin": "yòubiān",
+    "def_en": "(N) right (side)"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "浴室",
+    "pinyin": "yùshì",
+    "def_en": "(N) bathroom"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "超市",
+    "pinyin": "chāoshì",
+    "def_en": "(N) supermarket"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "走路",
+    "pinyin": "zǒulù",
+    "def_en": "(V-sep) to walk"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "分鐘",
+    "pinyin": "fēnzhōng",
+    "def_en": "(M) measure word for minutes"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "def_en": "(Adv) only, merely"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "到",
+    "pinyin": "dào",
+    "def_en": "(Vp) arrive"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "間",
+    "pinyin": "jiān",
+    "def_en": "(M) measure word for houses, rooms, etc"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "空",
+    "pinyin": "kōng",
+    "def_en": "(Vs) vacant, empty"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "房間",
+    "pinyin": "fángjiān",
+    "def_en": "(N) room"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "套房",
+    "pinyin": "tàofáng",
+    "def_en": "(N) suite"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "回去",
+    "pinyin": "huíqù",
+    "def_en": "(Vi) to go back, to return"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "def_en": "(V) to think"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "再",
+    "pinyin": "zài",
+    "def_en": "(Adv) and then"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "電話",
+    "pinyin": "diànhuà",
+    "def_en": "(N) telephone"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "給",
+    "pinyin": "gěi",
+    "def_en": "(Prep) to"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "林",
+    "pinyin": "Lín",
+    "def_en": "Chinese last name, common in Taiwan"
+  },
+  {
+    "lessonCode": "L11-I",
+    "lessonNum": 11,
+    "part": "I",
+    "hanzi": "打電話",
+    "pinyin": "dǎ diànhuà",
+    "def_en": "to make a phone call"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "喂",
+    "pinyin": "wéi",
+    "def_en": "(Ptc) a particle used in addressing people, especially over the phone"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "房租",
+    "pinyin": "fángzū",
+    "def_en": "(N) rent (for a room or a house)"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "已經",
+    "pinyin": "yǐjīng",
+    "def_en": "(Adv) already"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "習慣",
+    "pinyin": "xíguàn",
+    "def_en": "(Vs) to get settled down, to get used to"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "問題",
+    "pinyin": "wèntí",
+    "def_en": "(N) problem, question"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "熱水器",
+    "pinyin": "rèshuǐqì",
+    "def_en": "(N) water heater"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "好像",
+    "pinyin": "hǎoxiàng",
+    "def_en": "(Adv) to seem to be, to appear to be (often used to take the edge off of a comment)"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "會",
+    "pinyin": "huì",
+    "def_en": "(Vaux) will"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "等",
+    "pinyin": "děng",
+    "def_en": "(V) to wait for"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "def_en": "(Ptc) then, in that case"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "裝",
+    "pinyin": "zhuāng",
+    "def_en": "(V) to install"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "不過",
+    "pinyin": "búguò",
+    "def_en": "(Conj) however, but"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "付",
+    "pinyin": "fù",
+    "def_en": "(V) to pay"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "收到",
+    "pinyin": "shōudào",
+    "def_en": "to receive"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "不好意思",
+    "pinyin": "bùhǎo yìsi",
+    "def_en": "sorry"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "沒關係",
+    "pinyin": "méi guānxi",
+    "def_en": "Not a problem"
+  },
+  {
+    "lessonCode": "L11-II",
+    "lessonNum": 11,
+    "part": "II",
+    "hanzi": "有線電視",
+    "pinyin": "yǒuxiàn diànshì",
+    "def_en": "cable TV"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "計畫",
+    "pinyin": "jìhuà",
+    "def_en": "(V) to plan to"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "年",
+    "pinyin": "nián",
+    "def_en": "(M) measure word for year"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "久",
+    "pinyin": "jiǔ",
+    "def_en": "(Vs) long (time)"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "時間",
+    "pinyin": "shíjiān",
+    "def_en": "(N) time"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "先",
+    "pinyin": "xiān",
+    "def_en": "(Adv) first"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "念",
+    "pinyin": "niàn",
+    "def_en": "(V) to study"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "大學",
+    "pinyin": "dàxué",
+    "def_en": "(N) university"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "需要",
+    "pinyin": "xūyào",
+    "def_en": "(Vst) to need"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "花",
+    "pinyin": "huā",
+    "def_en": "(V) to spend (time or money)"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "獎學金",
+    "pinyin": "jiǎngxuéjīn",
+    "def_en": "(N) scholarship"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "成績",
+    "pinyin": "chéngjī",
+    "def_en": "(N) grades"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "學費",
+    "pinyin": "xuéfèi",
+    "def_en": "(N) tuition"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "公司",
+    "pinyin": "gōngsī",
+    "def_en": "(N) company"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "替",
+    "pinyin": "tì",
+    "def_en": "(Prep) for, on behalf of"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "希望",
+    "pinyin": "xīwàng",
+    "def_en": "(Vst) to hope"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "以後",
+    "pinyin": "yǐhòu",
+    "def_en": "(N) in the future"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "到",
+    "pinyin": "dào",
+    "def_en": "(V) to go/ come to"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "上班",
+    "pinyin": "shàngbān",
+    "def_en": "(V-sep) to go to work"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "念書",
+    "pinyin": "niànshū",
+    "def_en": "(V-sep) to study"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "def_en": "(Vs) tired"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "語言中心",
+    "pinyin": "yǔyán zhōngxīn",
+    "def_en": "language center"
+  },
+  {
+    "lessonCode": "L12-I",
+    "lessonNum": 12,
+    "part": "I",
+    "hanzi": "加油",
+    "pinyin": "jiāyóu",
+    "def_en": "keep up the good work"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "def_en": "(Vi) to work"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "去年",
+    "pinyin": "qùnián",
+    "def_en": "(N) last year"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "def_en": "(V) to do, to engage in"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "生意",
+    "pinyin": "shēngyì",
+    "def_en": "(N) business"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "以後",
+    "pinyin": "yǐhòu",
+    "def_en": "(N) afterwards"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "def_en": "(Vs) easy to"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "def_en": "(V) to look for"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "def_en": "(N) job, work"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "這樣",
+    "pinyin": "zhè yàng",
+    "def_en": "(N) this kind (of)"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "國家",
+    "pinyin": "guójiā",
+    "def_en": "(N) country"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "試",
+    "pinyin": "shì",
+    "def_en": "(Vi) to try"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "難",
+    "pinyin": "nán",
+    "def_en": "(Vs) hard to, difficult to"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "那麼",
+    "pinyin": "nàme",
+    "def_en": "(Ptc) then"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "再",
+    "pinyin": "zài",
+    "def_en": "(Adv) again"
+  },
+  {
+    "lessonCode": "L12-II",
+    "lessonNum": 12,
+    "part": "II",
+    "hanzi": "試試看",
+    "pinyin": "shìshìkàn",
+    "def_en": "to give it a try, try and see what happens"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "生日",
+    "pinyin": "shēngrì",
+    "def_en": "(N) birthday"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "快樂",
+    "pinyin": "kuàilè",
+    "def_en": "(Vs) happy"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "回來",
+    "pinyin": "huílái",
+    "def_en": "(Vi) to come back"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "啊",
+    "pinyin": "a",
+    "def_en": "(Ptc) a particle indicating a realization"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "怎麼",
+    "pinyin": "zěnme",
+    "def_en": "(Adv) How come?"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "忘(了)",
+    "pinyin": "wàngle",
+    "def_en": "(Vpt) to forget"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "記得",
+    "pinyin": "jìde",
+    "def_en": "(Vst) to remember"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "當然",
+    "pinyin": "dāngrán",
+    "def_en": "(Adv) certainly, of course"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "語言",
+    "pinyin": "yǔyán",
+    "def_en": "(N) language"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "交換",
+    "pinyin": "jiāohuàn",
+    "def_en": "(V) to exchange"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "那麼",
+    "pinyin": "nàme",
+    "def_en": "(Adv) so (very)"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "熱心",
+    "pinyin": "rèxīn",
+    "def_en": "(Vs) with enthusiasm"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "西班牙文",
+    "pinyin": "Xībānyá wén",
+    "def_en": "(N) the Spanish language"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "一樣",
+    "pinyin": "yíyàng",
+    "def_en": "(Vs) the same, alike"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "過",
+    "pinyin": "guò",
+    "def_en": "(V) to celebrate"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "左右",
+    "pinyin": "zuǒyòu",
+    "def_en": "(N) approximately"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "門口",
+    "pinyin": "ménkǒu",
+    "def_en": "(N) gate, entrance"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "西班牙",
+    "pinyin": "Xībānyá",
+    "def_en": "Spain"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "生日快樂",
+    "pinyin": "shēngrì kuàilè",
+    "def_en": "Happy Birthday"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "我就是",
+    "pinyin": "wǒ jiù shì",
+    "def_en": "(said of self on the phone) This is s/he speaking"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "好久不見",
+    "pinyin": "hǎojiǔ bújiàn",
+    "def_en": "long time no see"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "不必客氣",
+    "pinyin": "búbì kèqì",
+    "def_en": "No need to stand on formalities, i.e., It's my pleasure '"
+  },
+  {
+    "lessonCode": "L13-I",
+    "lessonNum": 13,
+    "part": "I",
+    "hanzi": "太客氣",
+    "pinyin": "tài kèqì",
+    "def_en": "That's very kind of you'"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "禮物",
+    "pinyin": "lǐwù",
+    "def_en": "(N) gift, present"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "今年",
+    "pinyin": "jīnnián",
+    "def_en": "(N) this year"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "訂",
+    "pinyin": "dìng",
+    "def_en": "(V) to order (something in advance)"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "了",
+    "pinyin": "le",
+    "def_en": "(Ptc) verbal particle indicating a completed action"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "豬腳",
+    "pinyin": "zhūjiǎo",
+    "def_en": "(N) pork knuckles"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "麵線",
+    "pinyin": "miànxiàn",
+    "def_en": "(N) extra fine noodles"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "蛋",
+    "pinyin": "dàn",
+    "def_en": "(N) egg"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "一點",
+    "pinyin": "yìdiǎn",
+    "def_en": "(Vs) a little, some"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "傳統",
+    "pinyin": "chuántǒng",
+    "def_en": "(N) tradition, customs"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "年輕",
+    "pinyin": "niánqīng",
+    "def_en": "(Vs) young"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "蛋糕",
+    "pinyin": "dàngāo",
+    "def_en": "(N) cake"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "對",
+    "pinyin": "duì",
+    "def_en": "(Prep) to"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "def_en": "(V) to wish (somebody happiness, good luck, etc.)"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "哪裡,哪裡",
+    "pinyin": "nǎlǐ nǎlǐ",
+    "def_en": "It's my pleasure. Don't mention it.'"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "大部分",
+    "pinyin": "dà bùfèn",
+    "def_en": "most (of), mostly"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "萬事如意",
+    "pinyin": "wànshì rúyì",
+    "def_en": "May everything go your way"
+  },
+  {
+    "lessonCode": "L13-II",
+    "lessonNum": 13,
+    "part": "II",
+    "hanzi": "心想事成",
+    "pinyin": "xīnxiǎng shìchéng",
+    "def_en": "May all your wishes come true"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "天氣",
+    "pinyin": "tiānqì",
+    "def_en": "(N) weather"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "def_en": "(Vs) cold"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "風",
+    "pinyin": "fēng",
+    "def_en": "(N) wind"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "滑雪",
+    "pinyin": "huáxuě",
+    "def_en": "(V-sep) to ski"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "春天",
+    "pinyin": "chūntiān",
+    "def_en": "(N) spring (season)"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "def_en": "(Vst) to miss (someone)"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "新年",
+    "pinyin": "xīnnián",
+    "def_en": "(N) New Year"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "def_en": "(Adv) soon"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "父母",
+    "pinyin": "fùmǔ",
+    "def_en": "(N) parents"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "冬天",
+    "pinyin": "dōngtiān",
+    "def_en": "(N) winter (season)"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "明年",
+    "pinyin": "míngnián",
+    "def_en": "(N) next year"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "秋天",
+    "pinyin": "qiūtiān",
+    "def_en": "(N) autumn (season)"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "紅葉",
+    "pinyin": "hóngyè",
+    "def_en": "(N) red maple leaves"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "def_en": "(Adv) only, merely"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "玉山",
+    "pinyin": "Yùshān",
+    "def_en": "Yu Shan (Mount Jade), tallest mountain in central Taiwan"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "紐約",
+    "pinyin": "Niǔyuē",
+    "def_en": "New York"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "下雪",
+    "pinyin": "xiàxuě",
+    "def_en": "to snow"
+  },
+  {
+    "lessonCode": "L14-I",
+    "lessonNum": 14,
+    "part": "I",
+    "hanzi": "十二月底",
+    "pinyin": "shí'èryuè dǐ'",
+    "def_en": "the end of December"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "def_en": "(N) rain"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "傘",
+    "pinyin": "sǎn",
+    "def_en": "(N) umbrella"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "颱風",
+    "pinyin": "táifēng",
+    "def_en": "(N) typhoon"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "def_en": "(Adv) will, going to"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "夏天",
+    "pinyin": "xiàtiān",
+    "def_en": "(N) summer (season)"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "濕",
+    "pinyin": "shī",
+    "def_en": "(Vs) wet"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "討厭",
+    "pinyin": "tǎoyàn",
+    "def_en": "(Vs) annoying"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "新聞",
+    "pinyin": "xīnwén",
+    "def_en": "(N) news"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "def_en": "(Adv) even (more, less, etc.)"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "大家",
+    "pinyin": "dàjiā",
+    "def_en": "(N) everyone"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "小心",
+    "pinyin": "xiǎoxīn",
+    "def_en": "(Vs) to be careful, to take care"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "可怕",
+    "pinyin": "kěpà",
+    "def_en": "(Vs) scary"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "停",
+    "pinyin": "tíng",
+    "def_en": "(Vp) to stop"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "下雨",
+    "pinyin": "xiàyǔ",
+    "def_en": "to rain"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "這次",
+    "pinyin": "zhè cì",
+    "def_en": "this time"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "上次",
+    "pinyin": "shàng cì",
+    "def_en": "last time"
+  },
+  {
+    "lessonCode": "L14-II",
+    "lessonNum": 14,
+    "part": "II",
+    "hanzi": "慢走",
+    "pinyin": "màn zǒu",
+    "def_en": "Bye. Take care"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "醫生",
+    "pinyin": "yīshēng",
+    "def_en": "(N) doctor"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "一直",
+    "pinyin": "yìzhí",
+    "def_en": "(Adv) continuously, all the way"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "流",
+    "pinyin": "liú",
+    "def_en": "(V) to flow"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "鼻水",
+    "pinyin": "bíshuǐ",
+    "def_en": "(N) snot, nasal mucus, a running nose"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "頭",
+    "pinyin": "tóu",
+    "def_en": "(N) head"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "痛",
+    "pinyin": "tòng",
+    "def_en": "(Vs) painful"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "胃口",
+    "pinyin": "wèikǒu",
+    "def_en": "(N) appetite"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "差",
+    "pinyin": "chā",
+    "def_en": "(Vs) poor, bad"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "喉嚨",
+    "pinyin": "hóulóng",
+    "def_en": "(N) throat"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "發炎",
+    "pinyin": "fāyán",
+    "def_en": "(Vp-sep) to be inflamed"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "生病",
+    "pinyin": "shēngbìng",
+    "def_en": "(Vp) to fall ill"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "發燒",
+    "pinyin": "fāshāo",
+    "def_en": "(Vp-sep) to have a fever"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "感冒",
+    "pinyin": "gǎnmào",
+    "def_en": "(Vp) to catch/have a cold"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "藥",
+    "pinyin": "yào",
+    "def_en": "(N) medicine"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "藥局",
+    "pinyin": "yàojú",
+    "def_en": "(N) pharmacy, drug store"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "def_en": "(V) to get"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "def_en": "(Ptc) disposal marker"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "def_en": "(N) water"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "休息",
+    "pinyin": "xiūxí",
+    "def_en": "(Vi) to take a rest"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "睡覺",
+    "pinyin": "shuìjiào",
+    "def_en": "(V-sep) to sleep"
+  },
+  {
+    "lessonCode": "L15-I",
+    "lessonNum": 15,
+    "part": "I",
+    "hanzi": "早一點",
+    "pinyin": "zǎo yìdiǎn",
+    "def_en": "a bit earlier"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "臉色",
+    "pinyin": "liǎnsè",
+    "def_en": "(N) a person's \"color\" (said of the face when healthy or sick, pleased or angry etc.)'"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "難看",
+    "pinyin": "nánkàn",
+    "def_en": "(Vs) not to look good"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "肚子",
+    "pinyin": "dùzi",
+    "def_en": "(N) stomach, abdomen"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "吐",
+    "pinyin": "tù",
+    "def_en": "(V) to throw up, to vomit"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "幾",
+    "pinyin": "jǐ",
+    "def_en": "(N) (a) few"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "次",
+    "pinyin": "cì",
+    "def_en": "(M) measure word for times, occurrences"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "陪",
+    "pinyin": "péi",
+    "def_en": "(V) to go/stay with somebody, to accompany"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "看病",
+    "pinyin": "kànbìng",
+    "def_en": "(V-sep) to see a doctor"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "健康",
+    "pinyin": "jiànkāng",
+    "def_en": "(N) health"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "保險",
+    "pinyin": "bǎoxiǎn",
+    "def_en": "(N) insurance"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "def_en": "(Prep) to"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "def_en": "(Vs) oily, greasy"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "冰",
+    "pinyin": "bīng",
+    "def_en": "(Vs) icy"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "別",
+    "pinyin": "bié",
+    "def_en": "(Adv) don't (used in imperatives)'"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "關心",
+    "pinyin": "guānxīn",
+    "def_en": "(Vs) to be concerned about"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "def_en": "(M) measure word for bags, packages etc"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "def_en": "(Vi) to sleep"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "小時",
+    "pinyin": "xiǎoshí",
+    "def_en": "(N) hour"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "怎麼了",
+    "pinyin": "zěnme le",
+    "def_en": "What's wrong?'"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "不用了",
+    "pinyin": "búyòng le",
+    "def_en": "It's not necessary'"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "健康中心",
+    "pinyin": "jiànkāng zhōngxīn",
+    "def_en": "health center"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "回家",
+    "pinyin": "huí jiā",
+    "def_en": "go home"
+  },
+  {
+    "lessonCode": "L15-II",
+    "lessonNum": 15,
+    "part": "II",
+    "hanzi": "最好",
+    "pinyin": "zuì hǎo",
+    "def_en": "It would be best.../ (You) should"
+  }
+]

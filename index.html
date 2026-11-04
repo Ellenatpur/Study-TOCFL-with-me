@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>臺灣華語大冒險 - Petualangan Belajar Mandarin Taiwan (當代中文課程 1)</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏮</text></svg>">
+</head>
+<body>
+
+    <!-- TOP HEADER WITH HANGING TAIWANESE LANTERNS -->
+    <header class="app-header">
+        <div class="lantern-row">
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+            <div class="hanging-lantern"><div class="lantern-string"></div><div class="lantern-body">🏮</div></div>
+        </div>
+
+        <div class="header-inner">
+            <div class="logo-wrap" onclick="window.gameApp.switchTab('map')">
+                <div class="logo-badge">🧋</div>
+                <div class="logo-text">
+                    <h1 class="traditional-font">臺灣華語大冒險</h1>
+                    <p>Taiwan Mandarin Game • 當代中文課程 1 (568 Kosakata)</p>
+                </div>
+            </div>
+
+            <!-- GAMIFIED PLAYER HUD -->
+            <div class="player-hud">
+                <!-- Level & Title -->
+                <div class="hud-item">
+                    <span class="hud-icon">🏆</span>
+                    <div class="hud-progress-wrap">
+                        <span id="hud-level-val" class="hud-level-text">Lv.1</span>
+                        <div class="xp-bar-bg">
+                            <div class="xp-bar-fill" id="hud-xp-bar" style="width: 0%;"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- XP -->
+                <div class="hud-item">
+                    <span class="hud-icon">⚡</span>
+                    <strong id="hud-xp-val" class="highlight-gold">0 XP</strong>
+                </div>
+
+                <!-- NT$ Currency Coins -->
+                <div class="hud-item">
+                    <span class="hud-icon">🪙</span>
+                    <strong id="hud-coins-val" class="highlight-gold">50 NT$</strong>
+                </div>
+
+                <!-- Streak Days -->
+                <div class="hud-item">
+                    <span class="hud-icon">🔥</span>
+                    <strong id="hud-streak-val">1 Hari</strong>
+                </div>
+            </div>
+
+            <!-- SOUND & MUSIC TOGGLES -->
+            <div class="audio-controls-header">
+                <button id="sfx-toggle-btn" class="header-toggle-btn" onclick="toggleSFX()" title="Aktif/Nonaktifkan Efek Suara">
+                    <span id="sfx-icon">🔊</span>
+                    <span>Sound FX</span>
+                </button>
+                <button id="bgm-toggle-btn" class="header-toggle-btn" onclick="toggleBGM()" title="Putar Musik Santai Tradisional Taiwan">
+                    <span id="bgm-icon">🎵</span>
+                    <span>BGM Taiwan</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- NAVIGATION TABS -->
+    <nav class="app-nav-bar">
+        <button class="nav-tab-btn active" data-tab="map" onclick="window.gameApp.switchTab('map')">
+            <span>🗺️</span> Peta Petualangan (15 Bab)
+        </button>
+        <button class="nav-tab-btn" data-tab="flashcard" onclick="window.gameApp.switchTab('flashcard')">
+            <span>🎴</span> Flashcard Master
+        </button>
+        <button class="nav-tab-btn" data-tab="listening" onclick="window.gameApp.switchTab('listening')">
+            <span>🎧</span> Listening Dojo
+        </button>
+        <button class="nav-tab-btn" data-tab="reading" onclick="window.gameApp.switchTab('reading')">
+            <span>📖</span> Reading Quest
+        </button>
+        <button class="nav-tab-btn" data-tab="speaking" onclick="window.gameApp.switchTab('speaking')">
+            <span>🎤</span> Speaking Arena
+        </button>
+        <button class="nav-tab-btn" data-tab="shop" onclick="window.gameApp.switchTab('shop')">
+            <span>🏮</span> Pasar Malam & Souvenir
+        </button>
+        <button class="nav-tab-btn" data-tab="dictionary" onclick="window.gameApp.switchTab('dictionary')">
+            <span>📚</span> Kamus Lengkap (568 Kata)
+        </button>
+    </nav>
+
+    <!-- MAIN VIEWS CONTAINER -->
+    <main class="main-content">
+        <!-- View 1: Taiwan Adventure Map -->
+        <section id="map-view" class="view-panel"></section>
+
+        <!-- View 2: 3D Flashcard Game -->
+        <section id="flashcard-view" class="view-panel hidden"></section>
+
+        <!-- View 3: Listening Dojo Game -->
+        <section id="listening-view" class="view-panel hidden"></section>
+
+        <!-- View 4: Reading Quest Game -->
+        <section id="reading-view" class="view-panel hidden"></section>
+
+        <!-- View 5: Speaking Arena Game -->
+        <section id="speaking-view" class="view-panel hidden"></section>
+
+        <!-- View 6: Night Market Souvenir Shop -->
+        <section id="shop-view" class="view-panel hidden"></section>
+
+        <!-- View 7: Full 568-Word Dictionary -->
+        <section id="dictionary-view" class="view-panel hidden"></section>
+    </main>
+
+    <!-- FLOATING COMPANION MASCOT: XIONG BAO -->
+    <aside class="mascot-container" id="mascot-container"></aside>
+
+    <!-- LOAD SCRIPTS IN ORDER -->
+    <script src="data/lessons_database.js"></script>
+    <script src="js/sound_engine.js"></script>
+    <script src="js/speech_engine.js"></script>
+    <script src="js/mascot.js"></script>
+    <script src="js/flashcard_game.js"></script>
+    <script src="js/listening_game.js"></script>
+    <script src="js/reading_game.js"></script>
+    <script src="js/speaking_game.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- GLOBAL AUDIO CONTROLS & INIT SCRIPT -->
+    <script>
+        function toggleSFX() {
+            const btn = document.getElementById('sfx-toggle-btn');
+            const icon = document.getElementById('sfx-icon');
+            const isMuted = !window.soundEngine.muted;
+            window.soundEngine.setMuted(isMuted);
+            if (isMuted) {
+                btn.classList.add('active');
+                icon.textContent = '🔇';
+            } else {
+                btn.classList.remove('active');
+                icon.textContent = '🔊';
+                window.soundEngine.playClick();
+            }
+        }
+
+        function toggleBGM() {
+            const btn = document.getElementById('bgm-toggle-btn');
+            const icon = document.getElementById('bgm-icon');
+            const isPlaying = window.soundEngine.bgmPlaying;
+            if (isPlaying) {
+                window.soundEngine.setBgmMuted(true);
+                btn.classList.remove('active');
+                icon.textContent = '🎵';
+            } else {
+                window.soundEngine.setBgmMuted(false);
+                btn.classList.add('active');
+                icon.textContent = '🎶';
+                if (window.mascot) {
+                    window.mascot.say('welcome', {
+                        zh: "聽著夜市音樂，學習更有動力！",
+                        pinyin: "Tīng zhe yèshì yīnyuè, xuéxí gèng yǒu dònglì!",
+                        id: "Musik santai Taiwan aktif! Belajar jadi makin asyik dan rileks!"
+                    });
+                }
+            }
+        }
+
+        // Initialize App on DOM Ready
+        window.addEventListener('DOMContentLoaded', () => {
+            window.mascot.render();
+            window.gameApp.switchTab('map');
+            window.gameApp.updateHUD();
+
+            // First click safety for Web Audio API
+            document.body.addEventListener('click', () => {
+                if (window.soundEngine) window.soundEngine.init();
+            }, { once: true });
+        });
+    </script>
+</body>
+</html>
